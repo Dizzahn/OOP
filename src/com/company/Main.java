@@ -22,6 +22,7 @@ public class Main {
     for (int i=0; i< arr.length; i++){  //цикл создания массива из классов
         arr[i].draw();
     }
+    System.out.println("Выложен на GIThub");
 
     }
 }
